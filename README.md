@@ -1,4 +1,4 @@
-# task
+# App
 
 ## Project setup
 ```
